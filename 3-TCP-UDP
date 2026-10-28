@@ -1,0 +1,12 @@
+# TCP/IP
+TCP/IP (Transmission Control Protocol / Internet Protocol)is the fundamental suite
+of protocols for internet communication.
+
+#Transmission Control Protocol (TCP): 
+       Ensures reliable data transfer.
+
+#Internet Protocol (IP):
+       Handles addressing and routing of data packets.
+
+#User Datagram Protocol (UDP): 
+       Provides faster , but less reliable, data transfer

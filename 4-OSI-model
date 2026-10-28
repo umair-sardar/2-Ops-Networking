@@ -1,0 +1,18 @@
+# The-OSI-MODEL
+
+the open system interconnection (OSI) Model is a framework used to understand 
+how diffrent protocols networking protocols interact. 
+It has 7 layers:
+
+1. APPLICATION
+2. PRESSENTATION
+3. SESSION
+4. TRANSPORT
+5. NETWORK
+6. DATA-LINK
+7. PHYSICAL
+
+-------------------------------------------
+
+# 1.) APPLICATION:
+            THE Physical layer is liable for the actual connection btween devices 
